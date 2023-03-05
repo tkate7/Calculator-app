@@ -1,0 +1,48 @@
+body {
+    
+    font-family: sans-serif;
+    margin-top: 175px;
+    margin-bottom: auto;
+    background: yellow;
+    
+}
+
+form {
+    
+    text-align: center;
+}
+
+.calculation {
+    
+    text-align: center;
+    font-weight: bold;
+}
+
+input {
+    
+    width: 92px;
+    height: 50px;
+}
+
+select {
+    
+    height: 57px;
+}
+
+button {
+    
+    height: 45px;
+    width: 100px;
+    border-width:thin;
+    border-radius: 10px;
+    background: black;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: white;
+}
+
+button:hover {
+    
+    background: gray;
+}
+
